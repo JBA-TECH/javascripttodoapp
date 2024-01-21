@@ -42,9 +42,6 @@ app.get("/", async function (req, res) {
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
   </head>
   <body>
-    <p>Va I an going to use this as my primary learning applicaion as i can do more and more funky features!!
-        Please check my progress ocassionally, LOVE IS!!
-    </p>
   <div class="container">
   <h1 class="display-4 text-center py-1">JBS To-Do App!</h1>
   
@@ -54,6 +51,9 @@ app.get("/", async function (req, res) {
   <input id="create-field" name="item" autofocus autocomplete="off" class="form-control mr-3" type="text" style="flex: 1;">
   <button class="btn btn-primary">Add New Item Please</button>
   </div>
+  <p>Va I an going to use this as my primary learning applicaion as i can do more and more funky features!!
+        Please check my progress ocassionally, LOVE IS!!
+  </p>
   </form>
   </div>
   
