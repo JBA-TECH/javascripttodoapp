@@ -51,9 +51,8 @@ app.get("/", async function (req, res) {
   <input id="create-field" name="item" autofocus autocomplete="off" class="form-control mr-3" type="text" style="flex: 1;">
   <button class="btn btn-primary">Add New Item Please</button>
   </div>
-  <p>Va I an going to use this as my primary learning applicaion as i can do more and more funky features!!
         Please check my progress ocassionally, LOVE IS!!
-  </p>
+  </h1>
   </form>
   </div>
   
